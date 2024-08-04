@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamrishaby" alt="iamrishaby" /></a> </p>
 
-- 🔭 I’m currently working on **something cool**
+- 🔭 I’m currently working on **ML project**
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **reach, vue, github :)**
+- 💬 Ask me about **react, vue, frontend :)**
 
 - 📫 How to reach me **rishab130402@gmail.com**
 
